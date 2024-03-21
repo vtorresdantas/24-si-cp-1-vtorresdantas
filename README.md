@@ -3,9 +3,8 @@
 
 ## Instruções
 
-## SEU NOME__________________________
-## SEU RM____________________________
-
+## SEU NOME: Vitor Torres Dantas
+## SEU RM: 88415
 
 Para alcançar a pontuação máxima em cada questão, é fundamental demonstrar maturidade e profundidade em sua resolução. Em outras palavras, copy/paste do ChatGPT ou similares não garantem nota. 
 
